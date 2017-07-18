@@ -1,0 +1,7 @@
+{
+	"Maybe|maybe":"#maybeanswer#",
+	"Someone|someone": "#someoneanswer#",
+	"How|how":"#howanswer#",
+	"Sorry|sorry":["#sorryanswer#"],
+	"Great|great":["#greatanswer#"]
+}
